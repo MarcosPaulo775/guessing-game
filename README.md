@@ -13,5 +13,5 @@ cargo run
 - Docker Compose
 
 ### References
-- [English Book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
-- [Portuguese Book](https://rust-br.github.io/rust-book-pt-br/ch02-00-guessing-game-tutorial.html)
+- [The Rust Programming Language - English Version](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+- [The Rust Programming Language - Portuguese Version](https://rust-br.github.io/rust-book-pt-br/ch02-00-guessing-game-tutorial.html)
